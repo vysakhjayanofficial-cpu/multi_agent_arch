@@ -15,7 +15,7 @@ from llm import llm as model
 
 embeddings = NVIDIAEmbeddings(
   model="nvidia/nv-embedcode-7b-v1", 
-  api_key="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", 
+  api_key="", 
   truncate="NONE", 
 )
 
